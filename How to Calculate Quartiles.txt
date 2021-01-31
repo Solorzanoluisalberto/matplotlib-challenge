@@ -1,0 +1,39 @@
+Quartiles
+Quartiles mark each 25% of a set of data:
+
+The first quartile Q1 is the 25th percentile
+The second quartile Q2 is the 50th percentile
+The third quartile Q3 is the 75th percentile
+The second quartile Q2 is easy to find. It is the median of any data set and it divides an ordered data set into upper and lower halves.
+
+The first quartile Q1 is the median of the lower half not including the value of Q2. The third quartile Q3 is the median of the upper half not including the value of Q2.
+How to Calculate Quartiles
+Order your data set from lowest to highest values
+Find the median. This is the second quartile Q2.
+At Q2 split the ordered data set into two halves.
+The lower quartile Q1 is the median of the lower half of the data.
+The upper quartile Q3 is the median of the upper half of the data.
+If the size of the data set is odd, do not include the median when finding the first and third quartiles.
+
+If the size of the data set is even, the median is the average of the middle 2 values in the data set. Add those 2 values, and then divide by 2. The median splits the data set into lower and upper halves and is the value of the second quartile Q2.
+
+How to Find Interquartile Range
+The interquartile range IQR is the range in values from the first quartile Q1 to the third quartile Q3. Find the IQR by subtracting Q1 from Q3.
+
+IQR = Q3 - Q1
+How to Find the Minimum
+The minimum is the smallest value in a sample data set.
+
+Ordering a data set from lowest to highest value, x1 ≤ x2 ≤ x3 ≤ ... ≤ xn, the minimum is the smallest value x1. The formula for minimum is:
+
+Min=x1=min(xi)ni=1
+How to Find the Maximum
+The maximum is the largest value in a sample data set.
+
+Ordering a data set from lowest to highest value, x1 ≤ x2 ≤ x3 ≤ ... ≤ xn, the maximum is the largest value xn. The formula for maximum is:
+
+Max=xn=max(xi)ni=1
+How to Find the Range of a Set of Data
+The range of a data set is the difference between the minimum and maximum. To find the range, calculate xn minus x1.
+
+R=xn−x1
